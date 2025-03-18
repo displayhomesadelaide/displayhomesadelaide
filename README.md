@@ -5,8 +5,6 @@ Regent Homes is a trusted name in home building, offering high-quality **[Displa
 <body>
 <!--StartFragment--><google-sheets-html-origin><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
 <img src="https://regenthomes.com.au/wp-content/uploads/2024/05/Regent-Homes-Custom-Homes-Peregine-Way-30-1024x683.jpg" alt="A stunning Regent Homes design featuring a modern open-plan display home with seamless indoor-outdoor living, herringbone flooring, and breathtaking views in a premium display village in Adelaide."/>
---
-
 
 <!--EndFragment-->
 </body>
